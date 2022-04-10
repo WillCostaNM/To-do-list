@@ -36,8 +36,6 @@ h1{
 
 
 
-
-
 #input-container input{
   color: #fff;
   background: none;
@@ -67,7 +65,6 @@ h1{
 #input-container button:hover{
   background-color: #13DCF2;
   color: black;
-
 }
 
 #tasks-container{
@@ -109,4 +106,30 @@ h1{
   background: url(../img/check.svg) no-repeat center center;
   background-size: 17px;
   background-color: #fff;
+}
+
+
+
+@media(max-width: 470px){
+  #input-container input{
+    margin-right: 15px;
+    width: 200px;
+  }
+  
+  #input-container button{
+    font-weight: 700;
+    background-color: #13DCF2;
+    color: black;
+  }
+  
+  
+  #input-container button:active{
+    color: rgba(242, 242, 242, 0.2);
+    background-color: rgba(242, 242, 242, 0.2);
+  }
+
+
+  #input-container input, #input-container button{
+    font-size: 1EM;
+  }
 }
