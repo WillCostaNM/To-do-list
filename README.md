@@ -1,9 +1,12 @@
 # To-do list
 
 Desafio proposto pela professora [Stephany Nusch](https://github.com/stebsnusch/) da [Digital Inovation One](https://www.dio.me/)
+<br/>
+<br/>
 
+![todolist](https://user-images.githubusercontent.com/68829088/162599393-ff3aeffb-0f86-467b-bdbb-62848f6a8ef3.gif)
 
-
+<br/>
 
 ## Desafio:
 - Criar um campo ``` input ``` de texto e um botão para adicionar a tarefa à lista;
