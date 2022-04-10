@@ -8,6 +8,9 @@ Desafio proposto pela professora [Stephany Nusch](https://github.com/stebsnusch/
 
 <br/>
 
+## Live Demo
+[To-do list](https://to-do-list-willcostanm.vercel.app/)
+
 ## Desafio:
 - Criar um campo ``` input ``` de texto e um botão para adicionar a tarefa à lista;
 - O texto deve aparecer na lista com um ``` checkbox ``` ao lado quando o botão for pressionado;
